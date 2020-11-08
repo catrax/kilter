@@ -13,15 +13,15 @@ I'm in the process of fixing several issues, including:
 Trust me the filter is good and cool I'm just really bad at PCB design.
 
 # Features
-- Voltage controlled filter with 4 simultaneous outputs _(TODO: measure response for each output. All should be 1-2 poles though)_:
-	- ?-pole high pass
-	- ?-pole band pass
-	- ?-pole low pass
-	- ?-pole notch with adjustable depth (via trimmer on back)
+- Voltage controlled filter with 4 simultaneous outputs:
+	- 2-pole high pass
+	- 2-pole low pass
+	- 1.5?-pole band pass (it's kind of an afterthought and needs to be improved, but it sounds okay)
+	- 2-pole notch with adjustable depth (via trimmer on back)
 - Two frequency CV inputs, one with an attenuverter
 - Voltage controlled resonance with adjustable drive
 - Two inputs with linear cross-fade
-- Only 6HP!
+- 6HP
 
 # Specifications
 TODO: HP, power requirements, depth, input/output impedances and voltage ranges
