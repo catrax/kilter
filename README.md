@@ -1,6 +1,6 @@
 # VCF-20
-A compact state variable eurorack filter with MS-20 style resonance.
-Loosely based on [René Schmitz' MS-20 schematic](https://www.schmitzbits.de/ms20.html).
+A compact multimode eurorack filter with MS-20 style resonance.
+Filter core and resonance based on [René Schmitz' MS-20 schematic](https://www.schmitzbits.de/ms20.html).
 
 # Note
 As of v0.1, the schematic works perfectly on a breadboard, but the v0.1 PCB is very broken.
