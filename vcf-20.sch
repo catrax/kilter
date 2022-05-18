@@ -458,7 +458,7 @@ F1 "filter.sch" 50
 F2 "IN" I L 6000 2300 50 
 F3 "BP" O R 6550 2500 50 
 F4 "HP" O R 6550 2300 50 
-F6 "LP2" O R 6550 2400 50 
+F5 "LP2" O R 6550 2400 50 
 $EndSheet
 $Comp
 L Device:R_Small R4

@@ -2,6 +2,8 @@
 A compact multimode eurorack filter with MS-20 style resonance.
 Filter core and resonance based on [René Schmitz' MS-20 schematic](https://www.schmitzbits.de/ms20.html).
 
+![Panel design](/panel.png?raw=true|width=100px)
+
 # Features
 - Voltage controlled filter with 4 simultaneous outputs:
 	- 2-pole high pass

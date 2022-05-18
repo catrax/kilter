@@ -1816,19 +1816,6 @@ Wire Wire Line
 Wire Wire Line
 	2350 4500 2450 4500
 Connection ~ 3100 4400
-$Comp
-L Device:R_POT RV?
-U 1 1 601C6795
-P 2750 3900
-AR Path="/601C6795" Ref="RV?"  Part="1" 
-AR Path="/613FC7FE/601C6795" Ref="RV5"  Part="1" 
-F 0 "RV5" V 2635 3900 50  0000 C CNN
-F 1 "B50K QDRIVE" V 2544 3900 50  0000 C CNN
-F 2 "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical" V 2680 3900 50  0001 C CNN
-F 3 "~" H 2750 3900 50  0001 C CNN
-	1    2750 3900
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	2000 3750 2000 4300
 Wire Wire Line
@@ -2126,15 +2113,15 @@ Wire Wire Line
 $Comp
 L Device:R_POT RV?
 U 1 1 615278C6
-P 3800 3750
+P 2750 3900
 AR Path="/615278C6" Ref="RV?"  Part="1" 
 AR Path="/613FC7FE/615278C6" Ref="RV4"  Part="1" 
-F 0 "RV4" V 3685 3750 50  0000 C CNN
-F 1 "100K QFR" V 3594 3750 50  0000 C CNN
-F 2 "SamacSys_Parts:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" H 3800 3750 50  0001 C CNN
-F 3 "~" H 3800 3750 50  0001 C CNN
-	1    3800 3750
-	0    1    -1   0   
+F 0 "RV4" V 2635 3900 50  0000 C CNN
+F 1 "B50K QDRIVE" V 2544 3900 50  0000 C CNN
+F 2 "SamacSys_Parts:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" H 2750 3900 50  0001 C CNN
+F 3 "~" H 2750 3900 50  0001 C CNN
+	1    2750 3900
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	2350 3900 2350 4300
@@ -2459,4 +2446,17 @@ Wire Wire Line
 Connection ~ 9400 4650
 Text HLabel 5150 3250 0    50   Output ~ 0
 LP2
+$Comp
+L Device:R_POT RV?
+U 1 1 601C6795
+P 3800 3750
+AR Path="/601C6795" Ref="RV?"  Part="1" 
+AR Path="/613FC7FE/601C6795" Ref="RV5"  Part="1" 
+F 0 "RV5" V 3685 3750 50  0000 C CNN
+F 1 "100K QFR" V 3594 3750 50  0000 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical" V 3730 3750 50  0001 C CNN
+F 3 "~" H 3800 3750 50  0001 C CNN
+	1    3800 3750
+	0    1    -1   0   
+$EndComp
 $EndSCHEMATC
