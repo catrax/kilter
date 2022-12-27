@@ -1,8 +1,8 @@
-# VCF-20
+# kilter
 A compact multimode eurorack filter with MS-20 style resonance.
 Filter core and resonance based on [René Schmitz' MS-20 schematic](https://www.schmitzbits.de/ms20.html).
 
-<img src="https://raw.githubusercontent.com/covertneko/vcf-20/master/panel.png" height=500px />
+<img src="https://raw.githubusercontent.com/catrax/kilter/main/panel.png" height=500px />
 
 # Features
 - Voltage controlled filter with 4 simultaneous outputs:
