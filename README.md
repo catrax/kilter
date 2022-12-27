@@ -6,9 +6,9 @@ Filter core and resonance based on [René Schmitz' MS-20 schematic](https://www.
 
 # Features
 - Voltage controlled filter with 4 simultaneous outputs:
-	- 2-pole high pass
+	- 1-pole high pass
 	- 2-pole low pass
-	- 1.5?-pole band pass (it's kind of an afterthought and needs to be improved, but it sounds okay)
+	- 2-pole band pass (it's kind of an afterthought and needs to be improved, but it sounds okay)
 	- 2-pole notch with adjustable depth (via trimmer on back)
 - Two frequency CV inputs, one with an attenuverter
 - Voltage controlled resonance with adjustable drive

@@ -1,3 +1,5 @@
+_autosave*
+*-backups/
 *.*-bak
 *.log
 board/gerbers/*.zip

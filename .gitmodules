@@ -1,0 +1,3 @@
+[submodule "board/libraries"]
+	path = board/libraries
+	url = git@github.com:covertneko/kicad-libraries

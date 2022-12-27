@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "covertneko_General")(type "KiCad")(uri "${KIPRJMOD}/libraries/covertneko_General/covertneko_General.pretty")(options "")(descr ""))
+  (lib (name "covertneko_Audio")(type "KiCad")(uri "${KIPRJMOD}/libraries/covertneko_Audio/covertneko_Audio.pretty")(options "")(descr ""))
+)
