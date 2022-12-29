@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "panel_pcb")(type KiCad)(uri "$(KIPRJMOD)/panel_pcb.pretty")(options "")(descr ""))
+)

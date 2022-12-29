@@ -1,4 +1,4 @@
-20609446059486667
+20589461704335778
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86435,108 +86435,24 @@ varistor
 0
 2
 2
-covertneko_Audio
-INMP510
+panel_pcb
+F.Cu_g249
 
 
 0
-3
-3
-covertneko_Audio
-PJ301M
-PJ-301M-3
-Connector
 0
-3
-3
-covertneko_General
-20021521-00010T1LF
+0
+panel_pcb
+F.Mask_g251
 
 
 0
-10
-10
-covertneko_General
-InvenSense_QFN-24_3x3mm_P0.4mm
-24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
-QFN 0.4
 0
-24
-24
-covertneko_General
-JAE_DX07S016JA1R1500
+0
+panel_pcb
+F.SilkS_g253
 
 
 0
-18
-18
-covertneko_General
-M20-8890345
-
-
 0
-3
-3
-covertneko_General
-M22-6550442R
-M22-6550442R
-Connector
 0
-8
-8
-covertneko_General
-M226550342R
-M22-6550342R-1
-Connector
-0
-6
-6
-covertneko_General
-Mini_SWD_10pin
-Adafruit mini 10 pin SWD header
-
-0
-10
-10
-covertneko_General
-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-covertneko_General
-Potentiometer_SongHuei_RD0904N-L25-KQ_Single_Vertical
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-covertneko_General
-TBA-2-0522_SIP-7
-
-
-0
-5
-5
-covertneko_General
-Texas_X2SON-5_0.8x0.8mm_P0.48mm
-X2SON 5 pin 0.8x0.8mm package (Reference Datasheet: https://www.ti.com/lit/ds/symlink/tlv9001.pdf Reference part: TLV9001)
-X2SON
-0
-6
-6
-covertneko_General
-WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
-WSON, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf (page 68)), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-13
-9
-covertneko_General
-XTAL_ABS07-32.768KHZ-T
-
-
-0
-2
-2

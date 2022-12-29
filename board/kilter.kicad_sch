@@ -4104,10 +4104,10 @@
       (reference "J10") (unit 1) (value "CV2") (footprint "covertneko_Audio:PJ301M")
     )
     (path "/00000000-0000-0000-0000-0000613fc7fe/00000000-0000-0000-0000-000061527780"
-      (reference "Q1") (unit 1) (value "BC858") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
+      (reference "Q1") (unit 1) (value "BC857") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
     )
     (path "/00000000-0000-0000-0000-0000613fc7fe/00000000-0000-0000-0000-00006152777a"
-      (reference "Q1") (unit 2) (value "BC858") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
+      (reference "Q1") (unit 2) (value "BC857") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
     )
     (path "/00000000-0000-0000-0000-0000613fc7fe/00000000-0000-0000-0000-00005efaba61"
       (reference "Q3") (unit 1) (value "BC858") (footprint "Package_TO_SOT_SMD:SOT-23")
