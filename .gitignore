@@ -5,3 +5,4 @@ _autosave*
 board/gerbers/*.zip
 *.DS_Store
 gerbers/*.zip
+\#auto_saved_files\#
