@@ -7103,7 +7103,7 @@
   (gr_line (start 0 119.885) (end 30.48 119.885) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-00005eb6252e))
   (gr_line (start 0 9.885) (end 0 119.885) (layer "Edge.Cuts") (width 0.05) (tstamp 1e495bf5-5848-4a4e-a077-5b10567014ec))
   (gr_line (start 0 9.885) (end 30.48 9.885) (layer "Edge.Cuts") (width 0.05) (tstamp 2e24ce8b-e436-4bda-b68d-d536e7d03a64))
-  (gr_text "ctrx.dev/kilter/v1.0.1" (at 28.75 56.5785 90) (layer "B.SilkS") (tstamp 20d524ea-187f-4d04-bd51-23603888a68f)
+  (gr_text "catrax.dev/kilter/v1.0.1" (at 28.75 56.5785 90) (layer "B.SilkS") (tstamp 20d524ea-187f-4d04-bd51-23603888a68f)
     (effects (font (size 0.7 0.7) (thickness 0.15)) (justify mirror))
   )
   (gr_text "TRANS RIGHTS" (at 28.75 77.4446 90) (layer "B.Mask") (tstamp c0588b0f-e8c7-4e2f-b1da-20c5b598934b)

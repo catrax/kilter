@@ -6,3 +6,4 @@ board/gerbers/*.zip
 *.DS_Store
 gerbers/*.zip
 \#auto_saved_files\#
+*.kicad_*_old
